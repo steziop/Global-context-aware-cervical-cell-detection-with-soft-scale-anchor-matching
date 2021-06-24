@@ -1,0 +1,9 @@
+monilia 2 138 114 214
+monilia 56 3 248 141
+monilia 379 26 498 85
+monilia 375 131 528 171
+monilia 522 178 742 232
+monilia 687 102 799 179
+monilia 2 355 96 427
+monilia 106 388 169 480
+monilia 164 479 282 583

@@ -1,0 +1,5 @@
+vaginalis 38 496 57 532
+normal 99 256 139 305
+ascus 190 414 348 586
+vaginalis 697 450 742 489
+vaginalis 723 192 757 252

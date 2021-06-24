@@ -1,0 +1,6 @@
+adenocarcinoma 561 161 613 204
+adenocarcinoma 624 283 656 316
+adenocarcinoma 590 326 644 391
+adenocarcinoma 223 105 255 151
+adenocarcinoma 46 362 89 407
+adenocarcinoma 300 295 372 377

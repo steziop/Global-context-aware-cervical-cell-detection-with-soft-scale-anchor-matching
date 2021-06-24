@@ -1,0 +1,4 @@
+asch 85 481 127 533
+vaginalis 371 406 406 446
+vaginalis 207 318 250 367
+vaginalis 603 547 641 592

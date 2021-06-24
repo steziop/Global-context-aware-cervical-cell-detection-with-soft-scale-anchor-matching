@@ -1,0 +1,3 @@
+ascus 147 55 192 164
+ascus 219 412 274 467
+dysbacteriosis 514 199 629 285

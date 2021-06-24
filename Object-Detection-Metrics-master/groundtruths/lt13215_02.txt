@@ -1,0 +1,2 @@
+adenocarcinoma 229 322 304 445
+adenocarcinoma 604 438 668 529

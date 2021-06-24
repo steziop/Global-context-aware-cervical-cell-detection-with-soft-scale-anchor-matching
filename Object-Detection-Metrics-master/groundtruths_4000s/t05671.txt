@@ -1,0 +1,5 @@
+dysbacteriosis 2479 500 2829 815
+dysbacteriosis 1536 35 2072 288
+dysbacteriosis 153 1653 368 2020
+dysbacteriosis 433 719 785 985
+dysbacteriosis 2032 767 2362 1199

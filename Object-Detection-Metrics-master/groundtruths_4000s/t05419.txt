@@ -1,0 +1,5 @@
+dysbacteriosis 1026 417 1380 776
+normal 759 713 1044 901
+dysbacteriosis 2896 1711 3212 1909
+dysbacteriosis 1390 479 1945 916
+dysbacteriosis 398 686 746 989

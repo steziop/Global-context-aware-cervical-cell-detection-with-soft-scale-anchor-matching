@@ -1,0 +1,5 @@
+ascus 503 66 629 186
+ascus 338 168 451 305
+ascus 460 412 554 490
+ascus 612 36 699 91
+dysbacteriosis 402 181 648 417

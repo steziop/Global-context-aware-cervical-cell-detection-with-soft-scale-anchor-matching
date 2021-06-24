@@ -1,0 +1,4 @@
+asch 376 58 406 102
+ascus 765 440 800 525
+dysbacteriosis 459 209 526 272
+dysbacteriosis 463 410 560 533

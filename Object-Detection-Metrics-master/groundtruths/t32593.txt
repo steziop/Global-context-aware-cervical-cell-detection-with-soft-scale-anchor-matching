@@ -1,0 +1,3 @@
+normal 277 39 311 85
+monilia 89 4 394 498
+monilia 398 5 527 164

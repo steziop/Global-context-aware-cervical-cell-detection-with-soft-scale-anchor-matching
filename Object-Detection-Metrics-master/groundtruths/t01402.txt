@@ -1,0 +1,11 @@
+lsil 662 133 734 194
+lsil 717 112 767 163
+ascus 0 273 32 324
+ascus 621 533 675 596
+dysbacteriosis 101 2 170 79
+dysbacteriosis 157 198 243 272
+dysbacteriosis 245 221 323 277
+dysbacteriosis 529 333 613 421
+dysbacteriosis 494 159 607 278
+dysbacteriosis 687 1 765 98
+dysbacteriosis 460 379 597 568

@@ -1,0 +1,3 @@
+adenocarcinoma 2315 1426 2465 1632
+adenocarcinoma 2720 1939 2880 2088
+adenocarcinoma 2018 629 2134 752

@@ -1,0 +1,3 @@
+vaginalis 1771 614 1882 731
+vaginalis 1869 1265 1946 1390
+vaginalis 1735 53 1809 137

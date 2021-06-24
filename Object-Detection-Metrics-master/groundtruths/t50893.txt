@@ -1,0 +1,6 @@
+dysbacteriosis 268 381 322 431
+dysbacteriosis 409 456 489 534
+normal 316 122 382 180
+normal 260 254 301 286
+dysbacteriosis 23 18 86 113
+monilia 313 368 384 487

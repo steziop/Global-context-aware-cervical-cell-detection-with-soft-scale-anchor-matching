@@ -1,0 +1,7 @@
+dysbacteriosis 105 443 383 746
+dysbacteriosis 710 1528 994 1825
+dysbacteriosis 1480 1207 1755 1660
+dysbacteriosis 1156 1375 1423 1666
+dysbacteriosis 784 590 1148 857
+dysbacteriosis 1162 610 1582 1111
+dysbacteriosis 3303 356 3566 617

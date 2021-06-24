@@ -1,0 +1,16 @@
+vaginalis 419 548 428 566
+normal 449 428 470 453
+vaginalis 340 406 354 425
+hsil 291 29 316 69
+hsil 283 385 322 417
+vaginalis 711 137 729 154
+vaginalis 381 276 393 288
+vaginalis 78 250 92 267
+vaginalis 543 7 556 24
+vaginalis 417 158 440 178
+vaginalis 0 4 13 24
+normal 71 510 84 525
+ascus 495 507 574 593
+vaginalis 502 26 513 52
+vaginalis 748 525 771 544
+vaginalis 762 396 778 426

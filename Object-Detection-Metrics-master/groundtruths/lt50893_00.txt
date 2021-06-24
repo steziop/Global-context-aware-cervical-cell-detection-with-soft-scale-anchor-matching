@@ -1,0 +1,3 @@
+normal 633 244 765 360
+normal 520 509 602 572
+dysbacteriosis 47 35 171 226

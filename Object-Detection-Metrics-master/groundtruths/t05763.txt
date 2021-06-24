@@ -1,0 +1,5 @@
+ascus 671 331 711 397
+normal 411 154 463 266
+dysbacteriosis 220 388 275 464
+normal 245 288 302 362
+dysbacteriosis 111 229 217 304

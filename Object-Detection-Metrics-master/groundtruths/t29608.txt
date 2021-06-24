@@ -1,0 +1,5 @@
+normal 662 157 759 227
+normal 388 502 437 578
+monilia 737 422 778 462
+monilia 561 424 597 506
+monilia 584 23 662 70

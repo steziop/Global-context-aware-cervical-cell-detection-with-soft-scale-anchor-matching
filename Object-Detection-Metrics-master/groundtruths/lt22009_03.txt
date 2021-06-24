@@ -1,0 +1,6 @@
+hsil 97 117 243 220
+vaginalis 138 495 175 545
+vaginalis 40 237 77 280
+vaginalis 727 174 786 234
+asch 584 424 623 478
+asch 23 147 69 196

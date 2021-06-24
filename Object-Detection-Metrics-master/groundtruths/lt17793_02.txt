@@ -1,0 +1,5 @@
+hsil 165 17 217 82
+vaginalis 121 241 157 266
+vaginalis 682 277 715 313
+vaginalis 632 223 673 273
+hsil 721 466 784 534

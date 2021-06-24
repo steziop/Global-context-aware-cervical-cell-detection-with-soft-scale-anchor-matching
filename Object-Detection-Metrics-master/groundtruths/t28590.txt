@@ -1,0 +1,5 @@
+normal 521 35 571 101
+monilia 676 53 732 157
+monilia 7 138 57 247
+monilia 341 505 381 596
+monilia 562 335 608 397

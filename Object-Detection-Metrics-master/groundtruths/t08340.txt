@@ -1,0 +1,4 @@
+vaginalis 305 487 317 499
+vaginalis 428 552 448 569
+ascus 634 425 675 471
+vaginalis 526 262 542 280

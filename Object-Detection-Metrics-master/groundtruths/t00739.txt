@@ -1,0 +1,13 @@
+hsil 523 408 545 445
+asch 717 337 750 388
+ascus 485 343 519 421
+ascus 240 372 324 473
+ascus 322 236 395 307
+ascus 423 5 514 61
+ascus 253 548 313 590
+ascus 702 170 759 208
+ascus 600 -1 666 29
+dysbacteriosis 16 138 81 219
+dysbacteriosis 407 112 460 202
+dysbacteriosis 746 299 792 395
+dysbacteriosis 121 363 184 446

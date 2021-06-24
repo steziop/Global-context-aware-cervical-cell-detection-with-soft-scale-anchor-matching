@@ -1,0 +1,4 @@
+dysbacteriosis 223 1128 606 1502
+dysbacteriosis 279 822 651 1085
+dysbacteriosis 2389 1990 2810 2529
+monilia 3429 980 3950 1674

@@ -1,0 +1,2 @@
+adenocarcinoma 1210 1933 1377 2118
+adenocarcinoma 73 2630 265 2833

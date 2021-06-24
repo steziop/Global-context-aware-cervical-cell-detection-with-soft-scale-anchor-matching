@@ -1,0 +1,6 @@
+normal 88 339 303 517
+normal 435 481 454 493
+dysbacteriosis 30 273 101 343
+dysbacteriosis 146 150 209 221
+dysbacteriosis 182 38 242 120
+lsil 168 492 231 553

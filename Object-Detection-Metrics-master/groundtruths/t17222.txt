@@ -1,0 +1,3 @@
+vaginalis 362 310 374 326
+vaginalis 541 260 553 275
+vaginalis 769 272 782 285
